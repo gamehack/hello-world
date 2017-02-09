@@ -1,2 +1,2 @@
 # hello-world
-study 
+hi！study。
